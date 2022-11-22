@@ -1,0 +1,60 @@
+body{
+    overflow-x: hidden;
+    
+}
+.section1_ist_col_content{
+
+    margin-left: 140px;
+    margin-top: 90px;
+    line-height: 30px;
+   
+
+}
+
+.section1button{
+    width: 150px;
+    height: 50px;
+    font-size: medium;
+    color: white;
+    margin-right: 15px;
+    
+}
+
+.Paragrah1{
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+#readmore{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.card-img-top{
+    width: 150px;
+    height: 150;
+  
+}
+.footerdiv{
+
+
+background-color: rgba(0, 0, 0, 0.2); 
+margin-left: -800px;
+height: 100px;
+padding-top: 40px;
+}
+
+.footerpart2{
+    margin-left: 70%;
+    margin-top: -20px;
+}
+.vediobtn{
+ 
+    
+    border: 15px solid #1E1E53;
+    width: 600px;
+    height: 600px;
+    margin-top: -110px;
+    margin-left: 200px;
+
+}
